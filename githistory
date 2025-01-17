@@ -1,0 +1,399 @@
+    1  javac OtherThread.java
+    2  javac OtherThread.java
+    3  javac OtherThread.java
+    4  javac OtherThread.java
+    5  javac OtherThread.java
+    6  javac OtherThread.java
+    7  javac OtherThread.java
+    8  javac OtherThread.java
+    9  javac OtherThread.java
+   10  javac Main.java
+   11  javac Main.java
+   12  javac Main.java
+   13  javac Main.java
+   14  javac Main.java
+   15  javac Main.java
+   16  javac Main.java
+   17  javac OtherThread.java
+   18  javac OtherThread.java
+   19  javac Main.java
+   20  javac Try.java
+   21  javac Try.java
+   22  java Try
+   23  javac Try.java
+   24  javac Try.java
+   25  javac Try.java
+   26  java Try
+   27  javac Try.java
+   28  java Try
+   29  javac Try.java
+   30  java Try
+   31  gcc binary.c
+   32  gcc binary.c
+   33  gcc binary.c
+   34  gcc binary.c
+   35  gcc binary.c
+   36  gcc binary.c
+   37  gcc binary.c
+   38  gcc binary.c
+   39  gcc binary.c
+   40  gcc binary.c
+   41  gcc binary.c
+   42  gcc binary.c
+   43  gcc binary.c
+   44  gcc binary.c
+   45  gcc binary.c
+   46  gcc binary.c
+   47  gcc binary.c
+   48  gcc binary.c
+   49  gcc binary.c
+   50  gcc binary.c
+   51  gcc binary.c
+   52  gcc binary.c
+   53  gcc binary.c
+   54  gcc binary.c
+   55  gcc binary.c
+   56  gcc binary.c
+   57  gcc binary.c
+   58  gcc binary.c
+   59  gcc binary.c
+   60  gcc binary.c
+   61  gcc binary.c
+   62  gcc binary.c
+   63  gcc binary.c
+   64  gcc binary.c
+   65  gcc binary.c
+   66  gcc binary.c
+   67  ./a.out
+   68  ./a.out
+   69  gcc binary.c
+   70  jupyter notebook
+   71  jupyter lab
+   72  javac matrix.java
+   73  javac matrix.java
+   74  javac matrix.java
+   75  javac matrix.java
+   76  javac matrix.java
+   77  javac matrix.java
+   78  javac matrix.java
+   79  javac matrix.java
+   80  javac matrix.java
+   81  javac matrix.java
+   82  javac matrix.java
+   83  javac matrix.java
+   84  javac matrix.java
+   85  javac matrix.java
+   86  javac matrix.java
+   87  javac matrix.java
+   88  javac matrix.java
+   89  javac matrix.java
+   90  javac matrix.java
+   91  javac test.java
+   92  javac test.java
+   93  javac test.java
+   94  mkdir Amalna
+   95  wget www.youtube.com
+   96  be
+   97  history
+   98  clear
+   99  cat> amalna
+  100  history
+  101  ca
+  102  cal
+  103  cat > amalna
+  104  touch
+  105  touch ad
+  106  rm ad
+  107  history
+  108  history
+  109  echo
+  110  cut amalna
+  111  cut "amalna"
+  112  top
+  113  ./factorial.sh
+  114  chmod +x factorial.sh
+  115  ./fatorial.sh
+  116  ./factorial.sh
+  117  clear
+  118  chmod +x factorial.sh
+  119  ./factorial.sh
+  120  chmod +x factorial.sh
+  121  ./odd.sh
+  122  chmod +x odd.sh
+  123  ./odd.sh
+  124  ./odd.sh
+  125  ./odd.sh
+  126  clear
+  127  chmod +x odd.sh
+  128  ./odd.sh
+  129  ./odd.sh
+  130  clear
+  131  clear
+  132  chmod +x odd.sh
+  133  ./odd.sh
+  134  chmod +x odd.sh
+  135  ./odd.sh
+  136  clear
+  137  chmod +x odd.sh
+  138  ./odd.sh
+  139  ./odd.sh
+  140  clear
+  141  chmod +x odd.sh
+  142  ./odd.sh
+  143  chmod +x leap.sh
+  144  ./leap.sh
+  145  chmod +x factorial.sh
+  146  ./factorial.sh
+  147  ./factorial.sh
+  148  ./factorial.sh
+  149  ./evenodd.sh
+  150  chmod +x evenodd.sh
+  151  ./evenodd.sh
+  152  1234556788
+  153  ./evenodd.sh
+  154  ./evenodd.sh
+  155  ./leapyr.sh
+  156  chmod +x leapyr.sh
+  157  ./leapyr.sh
+  158  ./leapyr.sh
+  159  ./leapyr.sh
+  160  ./evenodd.sh
+  161  ./leapyr.sh
+  162  ./evenodd.sh
+  163  ./factorial.sh
+  164  ./leapyr.sh
+  165  ./factorial.sh
+  166  ./leapyr.sh
+  167  ./leapyr.sh
+  168  chmod +x sum.sh
+  169  ./sum.sh
+  170  ./leapyr.sh
+  171  chmod +x leapyr.sh
+  172  ./leapyr.sh
+  173  ./sum.sh
+  174  gcc pid.c
+  175  gcc pid.c
+  176  clear
+  177  gcc pid.c
+  178  gcc pid.c
+  179  gcc pid.c
+  180  gcc pid.c
+  181  gcc pid.c
+  182  clear
+  183  gcc pid.c
+  184  chmod +x factorial.sh
+  185  ./factorial.sh
+  186  chmod +x leap.sh
+  187  ./leap.sh
+  188  chmod +x odd.sh
+  189  ./odd.sh
+  190  gcc pid.c
+  191  gcc pid.c
+  192  gcc pid.c
+  193  clear
+  194  gcc pid.c
+  195  ./a.out
+  196  chmod +x sum.sh
+  197  ./sum.sh
+  198  clear
+  199  chmod +x sum.sh
+  200  ./sum.sh
+  201  chmod +x sum.sh
+  202  ./sum.sh
+  203  chmod +x sum.sh
+  204  ./sum.sh
+  205  chmod +x sum.sh
+  206  ./sum.sh
+  207  chmod +x sum.sh
+  208  ./sum.sh
+  209  gcc fork.c
+  210  fork.c
+  211  gss fork.c
+  212  ./a.out
+  213  gss fork.c
+  214  gcc fork.c
+  215  ./a.out
+  216  GCC SENDER.C
+  217  gcc sender.c
+  218  ./a.out
+  219  gcc fork.c
+  220  ./a.out
+  221  gcc sender.c
+  222  gcc sender.c
+  223  ./a.out
+  224  gcc fork.c
+  225  ./a.out
+  226  sudo apt -get install net -tools
+  227  sudo apt-get install net-tools
+  228  sudo apt-get update
+  229  sudo apt install nat-tools
+  230  sudo apt install net-tools
+  231  ifconfig
+  232  arp
+  233  ifconfig /all
+  234  ifconfig/all
+  235  ifconfig /all
+  236  ifconfig -a
+  237  nslookup www.google.co.in
+  238  ifconfig -h
+  239  ifconfig -v
+  240  ifconfig -h
+  241  nslookup www.google.com
+  242  ping 142.250.182.4
+  243  traceroot 104.21.32.1
+  244  sudo apt install traceroute
+  245  traceroot 104.21.32.1
+  246  arp
+  247  netdiscover -i
+  248  sudo apt install inetutils-traceroute
+  249  traceroot 104.21.32.1
+  250  traceroute 
+  251  traceroute 104.21.32.1
+  252  ifconfig
+  253  telnet
+  254  ssh
+  255  netdiscover -i
+  256  ftp
+  257  ls
+  258  mkdir temp
+  259  cd temp
+  260  git --version
+  261  cd ..
+  262  ls
+  263  cd Desktop
+  264  ls
+  265  pwd
+  266  cd ..
+  267  cd Desktop
+  268  mkdir cs
+  269  touch file.sh
+  270  cd cs
+  271  touch sample.sh
+  272  nano sample.sh
+  273  cat sample.sh
+  274  cp sample.sh sam.sh
+  275  ls
+  276  mv sam,sh t.sh
+  277  mv sam.sh t.sh
+  278  ls
+  279  mv sam.sh /Desktop/t.sh
+  280  mv sam.sh /t.sh
+  281  mv sam.sh ~/t.sh
+  282  mv sam.sh Destop/cs/t.sh
+  283  mv t.sh ~/Desktop/cs/t.sh
+  284  mv sam.sh ~/Desktop/
+  285  mv sam.sh ~/Desktop/cs
+  286  ls
+  287  mv t.sh ~/Desktop/
+  288  add user
+  289  add user anu
+  290  sudo add user anu
+  291  sudo adduser anu
+  292  sudo userdel anu
+  293  ps aux
+  294  ps -aux
+  295  ls -l
+  296  cd ..
+  297  ls -l
+  298  chmod u+x t.sh
+  299  ls -l
+  300  chmod a=rwx t.sh
+  301  ls -l
+  302  uname
+  303  uname -a
+  304  dmesg
+  305  sudo dmesg
+  306  sudo dmesg
+  307  grep "hello" h
+  308  grep "hello"  "h"
+  309  grep "hello" f.sh
+  310  grep "hello" t.sh
+  311  man grep
+  312  cat>gre.txt
+  313  grep -i "india" gre.txt
+  314  grep -w "india" gre.txt
+  315  grep -v "india" gre.txt
+  316  grep -c "india" gre.txt
+  317  grep -w -c "india" gre.txt
+  318  grep -w -c -v"india" gre.txt
+  319  grep -w -c -v "india" gre.txt
+  320  grep -w -c -v "india" gre.txt
+  321  gedit temp.sh
+  322  chmod u+x temp.sh
+  323  ./temp
+  324  ls
+  325  ./temp
+  326  ./temp.sh
+  327  gedit temp.sh
+  328  ./temp.sh
+  329  gedit temp.sh
+  330  ./temp.sh
+  331  gedit temp.sh
+  332  ./temp.sh
+  333  gedit temp.sh
+  334  ./temp.sh
+  335  gedit temp.sh
+  336  ./temp.sh
+  337  gedit temp.sh
+  338  ./temp.sh
+  339  gedit temp.sh
+  340  ./temp.sh
+  341  ./temp.sh
+  342  gedit temp.sh
+  343  chmod +x lar.sh
+  344  ./lar.sh
+  345  sudo apt-get install git
+  346  git config --global user.name "ambily"
+  347  git config --global user.email "ambilysekarc@fisat.ac.in"
+  348  git
+  349  git --version
+  350  git
+  351  git config --global user.name "ambilysekarc"
+  352  git config --global user.email "ambilicpradeep@gmail.com"
+  353  git config --list
+  354  ssh-keygen -t anyname -C "ambilicpradeep@gmail.com
+
+exit
+q
+  355  ssh-kgen -t anyname -C "ambilicpradeep@gmail.com"
+  356  ssh-keygen -t anyname -C "ambilicpradeep@gmail.com"
+  357  ssh-keygen -t ed25519 -C "ambilicpradeep@gmail.com"
+  358  cat ~/.ssh/id_ed25519.pub
+  359  mkdir fdpilahiahttp
+  360  cd fdpilahiahttp/
+  361  git clone https://github.com/ambilysekarc/fdpiahia.git
+  362  ls
+  363  cd fdpiaha
+  364  cd fdpiahia
+  365  git branch
+  366  touch hello.py
+  367  ls
+  368  git status
+  369  git add hello.py
+  370  git status
+  371  git commit -m "iam adding new file"
+  372  git push
+  373  git push
+  374  history
+  375  git clone git@github.com:ambilysekarc/fdpiahia.git
+  376  git branch
+  377  git status
+  378  touch hello1.py
+  379  git status
+  380  git add hello1.py
+  381  ls
+  382  git status
+  383  git commit -m "iam adding a new file"
+  384  git push
+  385  git push
+  386  cd ~
+  387  mkdir fdpi
+  388  cd fdpi
+  389  git clone git@github.com:ambilysekarc/fdpiahia
+  390  cd fdpiahia/
+  391  touch t.py
+  392  git add .
+  393  git commit -m "Added first"
+  394  git push
+  395  history
+  396  history>githistory
